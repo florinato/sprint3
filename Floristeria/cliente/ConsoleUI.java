@@ -9,7 +9,7 @@ import Floristeria.entity.Decoracio;
 import Floristeria.entity.Flor;
 import Floristeria.entity.Producto;
 import Floristeria.entity.Ticket;
-import Floristeria.herranienta.Floristeria;
+import Floristeria.herramienta.Floristeria;
 import Floristeria.persistence.FloristeriaDaoTxt;
 
 /**
